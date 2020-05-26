@@ -1,0 +1,1 @@
+int maxNumber(int number);

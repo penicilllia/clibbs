@@ -1,0 +1,1 @@
+int lenOfNumber(int number); 
