@@ -13,6 +13,7 @@ int main()
 	printf("\nLen of numb is: %d", lennum);
 	printf("\nMax num is: %d\n", maxnum);
 	float k = 0;
+	printf("\n\nHell World\n\n");
 	while(k < 1)
 	{
 		k -= 0.01;
