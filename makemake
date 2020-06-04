@@ -1,4 +1,3 @@
-
 all: mainfl
 mainfl: mainfile.o libmy1.a libmy2.so 
 	gcc -o mainfl *.o libmy*
